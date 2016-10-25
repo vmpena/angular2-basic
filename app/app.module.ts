@@ -1,10 +1,8 @@
 import { NgModule }      from '@angular/core';
 /*  Since this application is targeting a web browser,
-    your root module needs to import the BrowserModule
-    from @angular/platform-browser and add it to the imports array. */
+    your root module needs to import BrowserModule from
+    @angular/platform-browser and add it to the imports array. */
 import { BrowserModule } from '@angular/platform-browser';
-
-// import { DataService } from "./data.service";
 
 import { AppComponent } from './app.component';
 import { AboutComponent } from "./about.component";
