@@ -20,4 +20,4 @@ References/Sources:
 
 [Angular 2 - Tour of Heroes Tutorial](https://angular.io/docs/ts/latest/tutorial/)
 
-[Tour of Heroes - Source cod](https://github.com/johnpapa/angular2-tour-of-heroes)
+[Tour of Heroes - Source code](https://github.com/johnpapa/angular2-tour-of-heroes)
