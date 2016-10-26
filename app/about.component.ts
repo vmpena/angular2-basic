@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 
 export class AboutComponent {
     title = 'About Us';
-    description = 'This is the AboutComponent content';
+    description = 'This is the description property of AboutComponent.';
 }

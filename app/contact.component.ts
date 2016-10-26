@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 
 export class ContactComponent {
     title = 'How to Contact Us';
-    description = 'You can contact us in many ways.';
     phoneNumber = '1-23-456-7890';
+    contactMethods = [ 'email', 'fax', 'Morse code', 'telegram', 'smoke signals'];
+    officeIsOpen = true;
 }

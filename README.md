@@ -2,7 +2,7 @@
 A very basic Angular 2 app including a simple implementation of 
 routing, components and modules. 
 
-The content inside each html template is wrapped inside an HTML fieldset tags to 
+The content inside each html template is wrapped inside HTML fieldset tags to 
 display the source of each page's content: 
 
     <fieldset>
